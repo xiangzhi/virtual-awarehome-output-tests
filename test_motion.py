@@ -46,3 +46,13 @@ class TestAllSensors:
                 if param["name"] == "illuminance":
                     assert "." not in param["value"]
                     assert int(param["value"]) > 0
+
+    @pytest.mark.parametrize("log", sensor_logs)
+    def test_motion_sensor_delay(self, log):
+        past_stamp = -1
+        for reading in log:
+            for param in reading["params"]:
+                if param["name"] == "motionStatus" and param["value"] == "0":
+                    diff = int(reading["timeStampMs"]) - past_stamp
+                    assert diff > 2000 
+            past_stamp = int(reading["timeStampMs"])
