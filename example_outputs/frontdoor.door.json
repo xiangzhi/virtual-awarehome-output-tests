@@ -1,0 +1,1549 @@
+{
+    "resultCode": 0,
+    "keyExpire": "2128-06-11T08:53:20Z",
+    "keyExpireMs": 5000000000000,
+    "keyType": 0,
+    "readings": [
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:00-04:00",
+            "timeStampMs": 1657036020000,
+            "params": [
+                {
+                    "name": "batteryLevel",
+                    "value": "100"
+                },
+                {
+                    "name": "batteryVoltage",
+                    "value": "3.1"
+                },
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                },
+                {
+                    "name": "degC",
+                    "value": "22.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:15.564-04:00",
+            "timeStampMs": 1657036035564,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:25.675-04:00",
+            "timeStampMs": 1657036045675,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:40.272-04:00",
+            "timeStampMs": 1657036060272,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:42.046-04:00",
+            "timeStampMs": 1657036062046,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:42.327-04:00",
+            "timeStampMs": 1657036062327,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:43.19-04:00",
+            "timeStampMs": 1657036063190,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:43.427-04:00",
+            "timeStampMs": 1657036063427,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:44.158-04:00",
+            "timeStampMs": 1657036064158,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:44.396-04:00",
+            "timeStampMs": 1657036064396,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:45.134-04:00",
+            "timeStampMs": 1657036065134,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:45.383-04:00",
+            "timeStampMs": 1657036065383,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:46.164-04:00",
+            "timeStampMs": 1657036066164,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:46.386-04:00",
+            "timeStampMs": 1657036066386,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:47.154-04:00",
+            "timeStampMs": 1657036067154,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:47.346-04:00",
+            "timeStampMs": 1657036067346,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:48.146-04:00",
+            "timeStampMs": 1657036068146,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:48.326-04:00",
+            "timeStampMs": 1657036068326,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:49.127-04:00",
+            "timeStampMs": 1657036069127,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:49.329-04:00",
+            "timeStampMs": 1657036069329,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:50.214-04:00",
+            "timeStampMs": 1657036070214,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:50.401-04:00",
+            "timeStampMs": 1657036070401,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:51.384-04:00",
+            "timeStampMs": 1657036071384,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:51.594-04:00",
+            "timeStampMs": 1657036071594,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:52.453-04:00",
+            "timeStampMs": 1657036072453,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:52.719-04:00",
+            "timeStampMs": 1657036072719,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:53.548-04:00",
+            "timeStampMs": 1657036073548,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:53.688-04:00",
+            "timeStampMs": 1657036073688,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:54.64-04:00",
+            "timeStampMs": 1657036074640,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:54.871-04:00",
+            "timeStampMs": 1657036074871,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:55.684-04:00",
+            "timeStampMs": 1657036075684,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:55.85-04:00",
+            "timeStampMs": 1657036075850,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:56.689-04:00",
+            "timeStampMs": 1657036076689,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:56.891-04:00",
+            "timeStampMs": 1657036076891,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:57.781-04:00",
+            "timeStampMs": 1657036077781,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:57.991-04:00",
+            "timeStampMs": 1657036077991,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:47:58.909-04:00",
+            "timeStampMs": 1657036078909,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:48:09.999-04:00",
+            "timeStampMs": 1657036089999,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:48:12.121-04:00",
+            "timeStampMs": 1657036092121,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:48:14.2-04:00",
+            "timeStampMs": 1657036094200,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:48:16.463-04:00",
+            "timeStampMs": 1657036096463,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:48:18.026-04:00",
+            "timeStampMs": 1657036098026,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:48:20.138-04:00",
+            "timeStampMs": 1657036100138,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:48:22.027-04:00",
+            "timeStampMs": 1657036102027,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:48:24.236-04:00",
+            "timeStampMs": 1657036104236,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:48:26.488-04:00",
+            "timeStampMs": 1657036106488,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:48:28.637-04:00",
+            "timeStampMs": 1657036108637,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:48:30.136-04:00",
+            "timeStampMs": 1657036110136,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T11:48:31.837-04:00",
+            "timeStampMs": 1657036111837,
+            "params": [
+                {
+                    "name": "doorStatus",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T15:57:12.829-04:00",
+            "timeStampMs": 1657051032829,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.5"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T16:07:13.138-04:00",
+            "timeStampMs": 1657051633138,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T17:47:16.273-04:00",
+            "timeStampMs": 1657057636273,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.5"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T18:17:17.208-04:00",
+            "timeStampMs": 1657059437208,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T18:27:17.55-04:00",
+            "timeStampMs": 1657060037550,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.5"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T18:37:17.859-04:00",
+            "timeStampMs": 1657060637859,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T19:57:20.206-04:00",
+            "timeStampMs": 1657065440206,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.3"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T20:27:21.167-04:00",
+            "timeStampMs": 1657067241167,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.2"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T20:37:21.414-04:00",
+            "timeStampMs": 1657067841414,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T20:47:21.755-04:00",
+            "timeStampMs": 1657068441755,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.3"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T20:57:22.024-04:00",
+            "timeStampMs": 1657069042024,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T21:07:22.313-04:00",
+            "timeStampMs": 1657069642313,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.7"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T21:17:22.583-04:00",
+            "timeStampMs": 1657070242583,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.8"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T21:27:22.888-04:00",
+            "timeStampMs": 1657070842888,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.9"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T21:37:23.168-04:00",
+            "timeStampMs": 1657071443168,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T21:57:23.728-04:00",
+            "timeStampMs": 1657072643728,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.2"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T22:07:24.073-04:00",
+            "timeStampMs": 1657073244073,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.3"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T22:27:24.61-04:00",
+            "timeStampMs": 1657074444610,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T22:37:24.845-04:00",
+            "timeStampMs": 1657075044845,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.5"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T22:47:25.156-04:00",
+            "timeStampMs": 1657075645156,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.6"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T23:07:25.672-04:00",
+            "timeStampMs": 1657076845672,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.8"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-05T23:27:26.186-04:00",
+            "timeStampMs": 1657078046186,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.9"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T00:07:27.244-04:00",
+            "timeStampMs": 1657080447244,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "24"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T00:17:27.589-04:00",
+            "timeStampMs": 1657081047589,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "24.1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T00:47:28.469-04:00",
+            "timeStampMs": 1657082848469,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "24.2"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T01:17:29.37-04:00",
+            "timeStampMs": 1657084649370,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "24.3"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T04:47:35.389-04:00",
+            "timeStampMs": 1657097255389,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "24.2"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T05:47:37.205-04:00",
+            "timeStampMs": 1657100857205,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "24.1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T05:57:37.833-04:00",
+            "timeStampMs": 1657101457833,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.9"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T06:07:37.782-04:00",
+            "timeStampMs": 1657102057782,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.8"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T06:17:38.096-04:00",
+            "timeStampMs": 1657102658096,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.5"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T06:27:38.39-04:00",
+            "timeStampMs": 1657103258390,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T06:37:38.81-04:00",
+            "timeStampMs": 1657103858810,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.3"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T06:47:38.98-04:00",
+            "timeStampMs": 1657104458980,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T06:57:39.332-04:00",
+            "timeStampMs": 1657105059332,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.9"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T07:07:39.556-04:00",
+            "timeStampMs": 1657105659556,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.8"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T07:17:39.92-04:00",
+            "timeStampMs": 1657106259920,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.7"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T07:27:40.185-04:00",
+            "timeStampMs": 1657106860185,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.6"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T07:37:40.444-04:00",
+            "timeStampMs": 1657107460444,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.5"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T07:47:40.791-04:00",
+            "timeStampMs": 1657108060791,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T08:07:41.41-04:00",
+            "timeStampMs": 1657109261410,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.3"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T09:17:43.539-04:00",
+            "timeStampMs": 1657113463539,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.2"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T09:57:44.709-04:00",
+            "timeStampMs": 1657115864709,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T10:37:45.979-04:00",
+            "timeStampMs": 1657118265979,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.2"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T10:47:46.38-04:00",
+            "timeStampMs": 1657118866380,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.3"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T11:37:47.852-04:00",
+            "timeStampMs": 1657121867852,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T11:47:48.2-04:00",
+            "timeStampMs": 1657122468200,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.3"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T12:27:49.47-04:00",
+            "timeStampMs": 1657124869470,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T13:57:52.141-04:00",
+            "timeStampMs": 1657130272141,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.3"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T14:17:52.726-04:00",
+            "timeStampMs": 1657131472726,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T14:47:53.626-04:00",
+            "timeStampMs": 1657133273626,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.5"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T15:27:54.869-04:00",
+            "timeStampMs": 1657135674869,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.6"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T17:27:58.264-04:00",
+            "timeStampMs": 1657142878264,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.7"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T17:37:58.602-04:00",
+            "timeStampMs": 1657143478602,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.6"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T17:47:58.851-04:00",
+            "timeStampMs": 1657144078851,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.7"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T19:08:01.064-04:00",
+            "timeStampMs": 1657148881064,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.6"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T19:38:01.874-04:00",
+            "timeStampMs": 1657150681874,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.7"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T19:48:02.12-04:00",
+            "timeStampMs": 1657151282120,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.8"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T20:38:03.771-04:00",
+            "timeStampMs": 1657154283771,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.7"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T20:48:04.138-04:00",
+            "timeStampMs": 1657154884138,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.8"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T20:58:04.097-04:00",
+            "timeStampMs": 1657155484097,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.9"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T21:08:04.502-04:00",
+            "timeStampMs": 1657156084502,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T21:18:04.763-04:00",
+            "timeStampMs": 1657156684763,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.2"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T21:28:05.239-04:00",
+            "timeStampMs": 1657157285239,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.3"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T21:38:05.345-04:00",
+            "timeStampMs": 1657157885345,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T21:48:05.629-04:00",
+            "timeStampMs": 1657158485629,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.6"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T22:08:06.277-04:00",
+            "timeStampMs": 1657159686277,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.7"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T22:18:06.399-04:00",
+            "timeStampMs": 1657160286399,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.8"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T22:38:06.88-04:00",
+            "timeStampMs": 1657161486880,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.9"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T23:08:07.754-04:00",
+            "timeStampMs": 1657163287754,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "24"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T23:18:08.041-04:00",
+            "timeStampMs": 1657163888041,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "24.1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T23:48:08.912-04:00",
+            "timeStampMs": 1657165688912,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "24.2"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-06T23:58:09.188-04:00",
+            "timeStampMs": 1657166289188,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "24.3"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T01:38:12.041-04:00",
+            "timeStampMs": 1657172292041,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "24.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T04:38:17.08-04:00",
+            "timeStampMs": 1657183097080,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "24.3"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T05:58:19.386-04:00",
+            "timeStampMs": 1657187899386,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "24.1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T06:08:19.661-04:00",
+            "timeStampMs": 1657188499661,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.9"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T06:17:20.899-04:00",
+            "timeStampMs": 1657189040899,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.6"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T06:27:21.199-04:00",
+            "timeStampMs": 1657189641199,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.4"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T06:37:21.477-04:00",
+            "timeStampMs": 1657190241477,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.3"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T06:47:21.786-04:00",
+            "timeStampMs": 1657190841786,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.2"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T06:57:22.098-04:00",
+            "timeStampMs": 1657191442098,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "23.1"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T07:07:22.367-04:00",
+            "timeStampMs": 1657192042367,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.9"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T07:27:22.943-04:00",
+            "timeStampMs": 1657193242943,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.8"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T08:07:24.051-04:00",
+            "timeStampMs": 1657195644051,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.7"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T08:17:24.337-04:00",
+            "timeStampMs": 1657196244337,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.8"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T08:27:24.648-04:00",
+            "timeStampMs": 1657196844648,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.7"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T08:47:25.252-04:00",
+            "timeStampMs": 1657198045252,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.8"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T08:57:25.533-04:00",
+            "timeStampMs": 1657198645533,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.7"
+                }
+            ]
+        },
+        {
+            "deviceId": "frontdoor-motion",
+            "timeStamp": "2022-07-07T09:07:25.812-04:00",
+            "timeStampMs": 1657199245812,
+            "params": [
+                {
+                    "name": "degC",
+                    "value": "22.6"
+                }
+            ]
+        }
+    ]
+}

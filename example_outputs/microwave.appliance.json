@@ -1,0 +1,943 @@
+{
+    "keyExpire": "2128-06-11T08:53:20Z", 
+    "resultCode": 0, 
+    "keyExpireMs": 5000000000000, 
+    "keyType": 0, 
+    "readings": [
+        {
+            "timeStamp": "2022-07-07T00:00:00-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657166400000
+        }, 
+        {
+            "timeStamp": "2022-07-07T14:54:48.29-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657220088290
+        }, 
+        {
+            "timeStamp": "2022-07-07T14:55:53.198-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657220153198
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:27:00.703-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222020703
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:29:30.503-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222170503
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:29:34.489-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222174489
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:34:45.45-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222485450
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:34:49.509-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222489509
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:35:18.12-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222518120
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:35:22.539-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222522539
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:38:27.146-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222707146
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:38:31.548-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222711548
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:40:24.813-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222824813
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:40:29.633-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222829633
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:41:17.034-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222877034
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:41:21.582-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222881582
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:42:58.456-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222978456
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:43:02.671-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657222982671
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:48:06.948-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657223286948
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:48:11.624-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657223291624
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:49:53.49-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657223393490
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:49:57.677-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657223397677
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:51:22.858-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657223482858
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:51:27.662-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657223487662
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:56:50.18-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657223810180
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:56:52.968-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657223812968
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:57:08.377-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657223828377
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:57:12.829-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657223832829
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:57:32.829-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657223852829
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:58:32.765-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657223912765
+        }, 
+        {
+            "timeStamp": "2022-07-07T15:58:47.753-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657223927753
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:00:52.976-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657224052976
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:01:07.756-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657224067756
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:11:41.058-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657224701058
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:12:01.017-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657224721017
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:16:35.01-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657224995010
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:16:50.166-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657225010166
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:18:22.927-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657225102927
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:18:47.968-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657225127968
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:24:05.993-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657225445993
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:24:31.004-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657225471004
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:31:23.39-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657225883390
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:31:53.089-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657225913089
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:32:32.114-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657225952114
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:32:57.13-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657225977130
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:35:17.305-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226117305
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:35:32.156-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226132156
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:36:51.469-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226211469
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:37:16.211-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226236211
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:39:16.251-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226356251
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:39:41.253-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226381253
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:41:07.247-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226467247
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:41:32.283-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226492283
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:43:57.525-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226637525
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:44:07.314-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226647314
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:44:22.323-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226662323
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:44:42.344-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226682344
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:46:43.403-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226803403
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:47:08.472-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226828472
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:47:25.85-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226845850
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:47:50.423-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226870423
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:48:41.432-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226921432
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:49:27.388-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226967388
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:49:31.742-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226971742
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:49:42.382-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657226982382
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:50:32.538-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227032538
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:50:47.557-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227047557
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:51:51.539-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227111539
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:52:11.533-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227131533
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:54:35.569-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227275569
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:54:50.606-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227290606
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:55:00.985-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227300985
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:55:15.684-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227315684
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:57:02.786-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227422786
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:57:17.652-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227437652
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:57:32.872-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227452872
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:58:26.512-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227506512
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:58:30.729-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227510729
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:58:45.857-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227525857
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:59:17.741-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227557741
+        }, 
+        {
+            "timeStamp": "2022-07-07T16:59:32.781-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227572781
+        }, 
+        {
+            "timeStamp": "2022-07-07T17:02:43.92-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657227763920
+        }, 
+        {
+            "timeStamp": "2022-07-07T17:11:19.782-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657228279782
+        }, 
+        {
+            "timeStamp": "2022-07-07T17:11:24.039-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "1"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657228284039
+        }, 
+        {
+            "timeStamp": "2022-07-07T17:11:39.18-04:00", 
+            "params": [
+                {
+                    "name": "operatingStatus", 
+                    "value": "0"
+                }
+            ], 
+            "deviceId": "microwave-appliance", 
+            "timeStampMs": 1657228299180
+        }
+    ]
+}
